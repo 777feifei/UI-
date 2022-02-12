@@ -1,0 +1,16 @@
+{
+  "id": "3119607",
+  "name": "渔政",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2002645",
+      "name": "大雨",
+      "font_class": "dayu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}
